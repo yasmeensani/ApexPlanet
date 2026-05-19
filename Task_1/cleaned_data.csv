@@ -1,0 +1,9 @@
+customer_id,customer_name,gender,date_of_birth,order_id,order_date,order_amount,city,customer_age,order_month,order_year
+101,John Doe,male,06-12-1995,5001,15-01-2023,2500,New York,30,1,2023
+102,Jane Smith,female,01-01-1990,5002,15-02-2023,1800,Los Angeles,36,2,2023
+103,Rahul Verma,male,03-05-1990,5003,18-03-2023,3200,Delhi,35,3,2023
+104,Aisha Khan,female,01-01-1990,5004,20-03-2023,2500,Mumbai,36,3,2023
+105,Chris Lee,male,01-01-1990,5005,,4500,Chicago,36,,
+106,Anita Roy,female,01-01-2000,5006,10-04-2023,1200,Kolkata,26,4,2023
+107,Tom Hardy,male,01-01-1990,5007,15-04-2023,66574.35,Boston,36,4,2023
+108,Neha Sharma,female,01-01-1990,5008,18-04-2023,2000,Delhi,36,4,2023
